@@ -102,8 +102,7 @@ Target 값(implicit, explicit)을 저차원 아이템 임베딩 행렬과임베�
 
 ### 3.1 The workflow of the proposed SR-GNN
 
-![Session-Based%20Recommendation%20with%20Graph%20Neural%20Net%20a9b78233221a4e0f8fb0265fcf205376/Screen_Shot_2021-06-27_at_10.08.18_PM.png](Session-Based%20Recommendation%20with%20Graph%20Neural%20Net%20a9b78233221a4e0f8fb0265fcf205376/Screen_Shot_2021-06-27_at_10.08.18_PM.png)
-
+![https://media.vlpt.us/images/99ktxx/post/c3d0cfb1-a29e-42f4-ba14-e3afcf00f5a4/image.png](https://media.vlpt.us/images/99ktxx/post/c3d0cfb1-a29e-42f4-ba14-e3afcf00f5a4/image.png)
 > 세션 기반 추천은 장기 선호도 프로필 접근 없이 유저의 현재 시퀀셜 세션 데이터(current sequence session data)만을 기반으로 유저가 다음에 클릭할 아이템이 무엇인지 예측하는 것에 초점을 둔다.
 
 ### 3.2 Notations
