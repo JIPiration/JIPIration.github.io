@@ -1,8 +1,8 @@
 ---
 layout: post
 title: [Paper review] Session-based Recommendation with Graph Neural Networks 
-date: 2021-06-27
-category: Sample
+date: 2021-06-27 
+category: sample
 ---
 
 ## 초보자를 위한 쉽게 보는 논문 리뷰 - 1편.
