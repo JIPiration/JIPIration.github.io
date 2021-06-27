@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[Paper review] Session-based Recommendation with Graph Neural Networks"
-date: 2021-06-27 20:20:20 +0900
+date: 2021-06-20 20:20:20 +0900
 category: sample
 ---
 
